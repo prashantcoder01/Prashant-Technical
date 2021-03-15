@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    font-family: 'Ranchers', cursive;
+}
+.carousel-item img{
+    width: 100%;
+    height: 93%;
+
+}
+.about_img{
+    min-width: 100%;
+    height: 280px;
+}
+.services img{
+    height: 100%;
+    width: 100%;
+}
+.offer_style{
+    background-color: aqua;
+}
